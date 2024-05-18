@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mehak</h1>
-<h3 align="center">Exploring the world of Tech</h3>
+<h3 align="center">Code, Create, Repeat</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehak469&label=Profile%20views&color=0e75b6&style=flat" alt="mehak469" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **umargul6038508@gmail.com**
 
-- ⚡ Fun fact **With a heart full of passion and a mind full of wonder, I'm dedicated to making the most of my educational journey!**
+- ⚡ Fun fact **I'm a math enthusiast and enjoy solving puzzles!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
