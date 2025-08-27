@@ -1,18 +1,44 @@
-<h1 align="center"> Welcome to My GitHub Profile! I'm Mehak</h1>
-<h3 align="center">Code, create, repeat</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mehak469&label=Profile%20views&color=0e75b6&style=flat" alt="mehak469" /> </p>
+# Hi, I'm **Mehak**
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+**Code · Analyze · Learn**
 
-- 📫 How to reach me **umargul6038508@gmail.com**
+</div>
 
-- ⚡ Fun fact: **I'm a math enthusiast and enjoy solving puzzles!**
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mehak469&show_icons=true&locale=en&layout=compact" alt="mehak469" /></p>
+## 👩‍💻 About
+BSCS (5th semester) student passionate about **Data Science** and solving real‑world problems with data.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mehak469&show_icons=true&locale=en" alt="mehak469" /></p>
+## 🎯 Currently
+- Practicing **Python for Data** (Pandas, NumPy, Matplotlib)
+- Learning **Machine Learning basics** with scikit‑learn
+- Improving version control skills with **Git & GitHub**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mehak469&" alt="mehak469" /></p>
+## 🧰 Tech Stack
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="28" height="28" alt="Python" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="28" height="28" alt="Pandas" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="28" height="28" alt="NumPy" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" width="28" height="28" alt="Matplotlib" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="28" height="28" alt="scikit-learn" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" width="28" height="28" alt="Jupyter" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="28" height="28" alt="Git" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="28" height="28" alt="GitHub" />
+</p>
+
+## 📌 Featured Projects
+- **Weather Data Analysis** → Collecting, cleaning, and visualizing city‑level weather data
+- **Data Science Notebooks** → Hands‑on practice with Pandas, NumPy, and scikit‑learn
+
+## 📫 Contact
+**Email:** umargul6038508@gmail.com  
+**LinkedIn/Portfolio:** _add here when ready_
+
+---
+
+<p align="center">
+  <sub>Built with ❤️ for Data · Thanks for visiting!</sub>
+</p>
+
