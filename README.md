@@ -9,7 +9,7 @@
 ---
 
 ## 👩‍💻 About
-BSCS (5th semester) student passionate about **Data Science** and solving real‑world problems with data.
+BSCS student passionate about **Data Science** and solving real‑world problems with data.
 
 ## 🎯 Currently
 - Practicing **Python for Data** (Pandas, NumPy, Matplotlib)
