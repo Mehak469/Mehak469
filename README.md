@@ -9,7 +9,7 @@
 ---
 
 ## 👩‍💻 About
-BSCS student passionate about **Data Science** and solving real‑world problems with data.
+BSCS student passionate about **Data Science** and solving real‑world problems.
 
 ## 🎯 Currently
 - Practicing **Python for Data** (Pandas, NumPy, Matplotlib)
@@ -34,11 +34,5 @@ BSCS student passionate about **Data Science** and solving real‑world problems
 
 ## 📫 Contact
 **Email:** umargul6038508@gmail.com  
-**LinkedIn/Portfolio:** _add here when ready_
-
----
-
-<p align="center">
-  <sub>Built with ❤️ for Data · Thanks for visiting!</sub>
-</p>
+**LinkedIn/Portfolio:** https://www.linkedin.com/in/mehak-gul-a0a428315
 
